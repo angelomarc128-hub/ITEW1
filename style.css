@@ -1,0 +1,30 @@
+/* Bootstrap does most of the work; these are only small tweaks */
+body {
+  min-height: 100vh;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+.empty-cart {
+  color: #6c757d;
+  text-align: center;
+}
+
+/* Amber + charcoal color scheme */
+.table thead th {
+  color: #ffc107;
+}
+
+.card-title {
+  color: #212529;
+}
+
+
+.contact{
+    padding: 100;
+    margin: auto;
+    box-shadow: inset;
+}
